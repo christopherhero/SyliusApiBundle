@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": "^7.4 || ^8.0",
-        "api-platform/core": "2.5",
+        "api-platform/core":"^2.5",
         "lexik/jwt-authentication-bundle": "^2.6",
         "sylius/core-bundle": "^1.7",
         "symfony/messenger": "^4.4 || ^5.2"
